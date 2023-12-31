@@ -1,6 +1,6 @@
 # PRODIGY_WD_2
 
-StopWatch
+#StopWatch
 A simple web-stopwatch developed by [Jenil Kotadia] (https://www.linkedin.com/in/jenil-kotadia-600b392a2/) .
 
 Project Information
